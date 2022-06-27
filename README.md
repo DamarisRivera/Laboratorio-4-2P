@@ -1,5 +1,5 @@
 # Laboratorio-4-2P
-**1. OBJETIVOS** 
+# 1. OBJETIVOS 
 
 **Objetivo general**
 
@@ -15,6 +15,8 @@ Analizar y comprobar de forma teorica y experimental la veracidad que tiene el T
 
 * Identificar las diferencias obtenidas por medio de la ejecución de un circuito mixto, dichas respuestas serán obtenidas de manera teórica, experimental y de simuladores.
 
-MARCO TEORICO
+# 2. MARCO TEORICO 
 
 ![image](https://user-images.githubusercontent.com/105617383/176051739-14a85931-ddf4-440b-9f56-964e2ba2942d.png)
+
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO
