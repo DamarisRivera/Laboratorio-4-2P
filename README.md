@@ -1,5 +1,5 @@
 # Laboratorio-4-2P
-**1 OBJETIVOS** 
+**1. OBJETIVOS** 
 
 **Objetivo general**
 
