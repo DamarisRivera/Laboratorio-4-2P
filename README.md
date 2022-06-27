@@ -7,8 +7,6 @@ Analizar y comprobar de forma teorica y experimental la veracidad que tiene el T
 
 **Objetivos específicos**
 
-* Identificar el circuito electrico equivalente de Thevenin dentro de un circuito electrico
-
 * Conocer el comportamiento de la corriente dentro de diferentes nodos y como estas interactúan con los componentes que integran dichos nodos.
 
 * Identificar que tipo de nodos pueden presentarse dentro de un circuito electrico y determinar los nodos principales y nodo referencial.
@@ -18,3 +16,5 @@ Analizar y comprobar de forma teorica y experimental la veracidad que tiene el T
 * Identificar las diferencias obtenidas por medio de la ejecución de un circuito mixto, dichas respuestas serán obtenidas de manera teórica, experimental y de simuladores.
 
 MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/105617383/176051739-14a85931-ddf4-440b-9f56-964e2ba2942d.png)
