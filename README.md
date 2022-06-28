@@ -40,6 +40,8 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 
 ![image](https://user-images.githubusercontent.com/105671763/176065433-36b3b69d-29b2-43b0-996d-e3e76e12ce72.png)
 
+![image](https://user-images.githubusercontent.com/105671763/176066028-b6330100-f219-4780-8665-36243bc51d97.png)
+
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
