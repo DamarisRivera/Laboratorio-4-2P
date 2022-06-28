@@ -52,7 +52,7 @@ Volvemos a reducir el circuito e identificamos los nuevos nodos.
 
 ![image](https://user-images.githubusercontent.com/105617383/176062268-4408df0e-5ec7-4d9a-998a-e1fc0bf43cd6.png)
 
-Calculamos la corriente que pasa por Ix, también encontramos la corriente equivalente del circuito.
+Calculamos la corriente que pasa por Ix y también encontramos la corriente equivalente del circuito.
 
 ![image](https://user-images.githubusercontent.com/105671763/176065138-7678b31d-8503-48d5-8fbc-4842e0a07d7a.png)
 
@@ -64,7 +64,7 @@ Calculamos la corriente total de Ix y el voltaje total de VA.
 
 ![image](https://user-images.githubusercontent.com/105671763/176066028-b6330100-f219-4780-8665-36243bc51d97.png)
 
-Una vez obtenidos los datos, se colocan en la tabla 4.1 y 4.2 respectiva.
+Una vez obtenidos los datos, se colocan en la tabla 4.1 y 4.2 según corresponda.
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
