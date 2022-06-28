@@ -36,9 +36,14 @@ Utilizando la ley de corrientes de Kirchhoff resolvemos el circuito.
 
 ![image](https://user-images.githubusercontent.com/105617383/176060703-7d08df23-8691-4ed1-9f89-47a0d6da95c9.png)
 
+Como la fuente de 20 V se convierte en un cortocircuito, se puede obtener una resistencia equivalente para poder reducir el cicuito.
+
 ![image](https://user-images.githubusercontent.com/105617383/176059953-761613ba-f123-4200-a6e9-59033c21ba82.png)
 
+En el nuevo circuito reducido identificamos los nodos.
+
 ![image](https://user-images.githubusercontent.com/105617383/176061485-a3b22eed-0f0e-4ba6-b15c-cd8792aff3bb.png)
+
 
 ![image](https://user-images.githubusercontent.com/105617383/176061889-884f2c91-24ee-41f2-ad2b-fd22af80fc7c.png)
 
