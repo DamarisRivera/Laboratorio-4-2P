@@ -24,8 +24,6 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 3.1 Construir el siguiente circuito de la figura 4.1
 ![image](https://user-images.githubusercontent.com/105617383/176054402-25094f1c-08ae-494d-9e36-d5c3aca33b6b.png)
 
-4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tablas respectivas.
-
 ![image](https://user-images.githubusercontent.com/105617383/176059067-b3f8892f-4ba5-4d77-a96f-e1aa68516f11.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176057647-bc1deac5-c273-4e78-bead-96b1ae19d05d.png)
@@ -49,14 +47,21 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-4.1 Simulación del circuito en Thinkercad, medir el voltaje total de A y la corriente total de Ix.
+Simulación del circuito en Thinkercad.
+
+4.1 Medir el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anotar el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![image](https://user-images.githubusercontent.com/105617383/176052818-63b69792-0c84-47a4-be94-fb65ea4a1df0.png)
 
+4.2 Circuito donde se hace “cero” la fuente de voltaje de 12 V (V2) y se mide el voltaje VA y la corriente
+Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anotar el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
 ![image](https://user-images.githubusercontent.com/105617383/176052774-b32641d9-6ff1-403b-b006-a4cf49f3ae7a.png)
 
-![image](https://user-images.githubusercontent.com/105617383/176052796-1f98b246-69b3-4f9b-ba1a-0f13a4f3bd39.png)
+4.3 Circuito donde se hace “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anotar el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/105617383/176052796-1f98b246-69b3-4f9b-ba1a-0f13a4f3bd39.png)
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
