@@ -30,6 +30,11 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 
 ![image](https://user-images.githubusercontent.com/105617383/176059953-761613ba-f123-4200-a6e9-59033c21ba82.png)
 
+![image](https://user-images.githubusercontent.com/105617383/176061485-a3b22eed-0f0e-4ba6-b15c-cd8792aff3bb.png)
+
+![image](https://user-images.githubusercontent.com/105617383/176061889-884f2c91-24ee-41f2-ad2b-fd22af80fc7c.png)
+
+![image](https://user-images.githubusercontent.com/105617383/176062268-4408df0e-5ec7-4d9a-998a-e1fc0bf43cd6.png)
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -38,6 +43,7 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 ![image](https://user-images.githubusercontent.com/105617383/176052796-1f98b246-69b3-4f9b-ba1a-0f13a4f3bd39.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176052818-63b69792-0c84-47a4-be94-fb65ea4a1df0.png)
+
 
 
 # 5.VIDEO
