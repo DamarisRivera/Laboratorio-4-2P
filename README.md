@@ -20,6 +20,8 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 ![image](https://user-images.githubusercontent.com/105617383/176051739-14a85931-ddf4-440b-9f56-964e2ba2942d.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+3.1 Construir el siguiente circuito
 ![image](https://user-images.githubusercontent.com/105617383/176054402-25094f1c-08ae-494d-9e36-d5c3aca33b6b.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176059067-b3f8892f-4ba5-4d77-a96f-e1aa68516f11.png)
