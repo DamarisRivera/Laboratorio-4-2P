@@ -26,7 +26,7 @@ Analizar y comprobar de forma teorica y experimental la veracidad que tiene el T
 
 ![image](https://user-images.githubusercontent.com/105617383/176057647-bc1deac5-c273-4e78-bead-96b1ae19d05d.png)
 
-![image](https://user-images.githubusercontent.com/105617383/176059460-34df15db-76d1-4c96-99dc-4820848f0a23.png)
+![image](https://user-images.githubusercontent.com/105617383/176060703-7d08df23-8691-4ed1-9f89-47a0d6da95c9.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176059953-761613ba-f123-4200-a6e9-59033c21ba82.png)
 
