@@ -88,6 +88,10 @@ Tabla 4.1. Medición de voltaje aplicando superposición.
 
 Tabla 4.2. Medición de corriente aplicando superposición.
 
+Tabla 4.3. Porcentaje de error del Voltaje Total (VA).
+
+Tabla 4.4. Porcentaje de error de la corriente Total (Ix).
+
 # 5.VIDEO
 
 https://youtu.be/7dLC-LoGbO4
