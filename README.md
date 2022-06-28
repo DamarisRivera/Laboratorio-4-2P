@@ -39,6 +39,9 @@ Analizar y comprobar de forma teorica y experimental la veracidad que tiene el T
 
 ![image](https://user-images.githubusercontent.com/105617383/176052818-63b69792-0c84-47a4-be94-fb65ea4a1df0.png)
 
+![image](https://user-images.githubusercontent.com/105671763/176060799-e9679faf-dfdc-47d3-b1e6-66459898d763.png)
+
+
 # 5.VIDEO
 
 https://youtu.be/7dLC-LoGbO4
