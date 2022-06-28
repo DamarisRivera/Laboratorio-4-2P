@@ -48,7 +48,7 @@ En VA utilizando la Ley de Ohm encontramos su valor.
 
 ![image](https://user-images.githubusercontent.com/105671763/176086008-a8759ef2-19c9-4ead-8852-78288a0135d2.png)
 
-Volvemos a reducir el circuito, identificamos los nodos y calculamos la corriente Ix.
+Volvemos a reducir el circuito e identificamos los nuevos nodos.
 
 ![image](https://user-images.githubusercontent.com/105617383/176062268-4408df0e-5ec7-4d9a-998a-e1fc0bf43cd6.png)
 
