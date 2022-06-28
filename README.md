@@ -44,8 +44,9 @@ En el nuevo circuito reducido identificamos los nodos.
 
 ![image](https://user-images.githubusercontent.com/105617383/176061485-a3b22eed-0f0e-4ba6-b15c-cd8792aff3bb.png)
 
+En VA utilizando la Ley de Ohm encontramos su valor.
 
-![image](https://user-images.githubusercontent.com/105617383/176061889-884f2c91-24ee-41f2-ad2b-fd22af80fc7c.png)
+![image](https://user-images.githubusercontent.com/105671763/176086008-a8759ef2-19c9-4ead-8852-78288a0135d2.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176062268-4408df0e-5ec7-4d9a-998a-e1fc0bf43cd6.png)
 
