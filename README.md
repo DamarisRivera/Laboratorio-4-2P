@@ -21,8 +21,10 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-3.1 Construir el siguiente circuito
+3.1 Construir el siguiente circuito de la figura 4.1
 ![image](https://user-images.githubusercontent.com/105617383/176054402-25094f1c-08ae-494d-9e36-d5c3aca33b6b.png)
+
+4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tablas respectivas.
 
 ![image](https://user-images.githubusercontent.com/105617383/176059067-b3f8892f-4ba5-4d77-a96f-e1aa68516f11.png)
 
@@ -47,13 +49,20 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+4.1 Simulación del circuito en Thinkercad.
+
+Simule el circuito 
+
+![image](https://user-images.githubusercontent.com/105617383/176052818-63b69792-0c84-47a4-be94-fb65ea4a1df0.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176052774-b32641d9-6ff1-403b-b006-a4cf49f3ae7a.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176052796-1f98b246-69b3-4f9b-ba1a-0f13a4f3bd39.png)
 
-![image](https://user-images.githubusercontent.com/105617383/176052818-63b69792-0c84-47a4-be94-fb65ea4a1df0.png)
 
+Tabla 4.1. Medición de voltaje aplicando superposición.
 
+Tabla 4.2. Medición de corriente aplicando superposición.
 
 # 5.VIDEO
 
