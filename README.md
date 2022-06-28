@@ -64,6 +64,7 @@ Calculamos la corriente total de Ix y el voltaje total de VA.
 
 ![image](https://user-images.githubusercontent.com/105671763/176066028-b6330100-f219-4780-8665-36243bc51d97.png)
 
+Una vez obtenidos los datos, se colocan en la tabla 4.1 y 4.2 respectiva.
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
