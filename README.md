@@ -21,12 +21,18 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-3.1 Construir el siguiente circuito de la figura 4.1
+3.1 Construir el circuito de la figura 4.1
 ![image](https://user-images.githubusercontent.com/105617383/176054402-25094f1c-08ae-494d-9e36-d5c3aca33b6b.png)
+
+1. Volver “cero” la fuente de voltaje de 12 V (V2), identificar el sentido de la corriente y encontrar el voltaje VA y la corriente Ix para el circuito nuevo que se formo.
 
 ![image](https://user-images.githubusercontent.com/105617383/176059067-b3f8892f-4ba5-4d77-a96f-e1aa68516f11.png)
 
+Utilizando la ley de corrientes de Kirchhoff resolvemos el circuito.
+
 ![image](https://user-images.githubusercontent.com/105617383/176057647-bc1deac5-c273-4e78-bead-96b1ae19d05d.png)
+
+2. Convertir en “cero” la fuente de voltaje de 20 V (V1), identificar el sentido de la corriente y medir el voltaje VA y la corriente Ix
 
 ![image](https://user-images.githubusercontent.com/105617383/176060703-7d08df23-8691-4ed1-9f89-47a0d6da95c9.png)
 
