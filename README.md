@@ -22,9 +22,14 @@ Analizar y comprobar de forma teorica y experimental la veracidad que tiene el T
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ![image](https://user-images.githubusercontent.com/105617383/176054402-25094f1c-08ae-494d-9e36-d5c3aca33b6b.png)
 
-![image](https://user-images.githubusercontent.com/105617383/176055380-6436d8dd-e5e7-459a-a8a8-532f556e9ee4.png)
+![image](https://user-images.githubusercontent.com/105617383/176059067-b3f8892f-4ba5-4d77-a96f-e1aa68516f11.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176057647-bc1deac5-c273-4e78-bead-96b1ae19d05d.png)
+
+![image](https://user-images.githubusercontent.com/105617383/176059460-34df15db-76d1-4c96-99dc-4820848f0a23.png)
+
+![image](https://user-images.githubusercontent.com/105617383/176059953-761613ba-f123-4200-a6e9-59033c21ba82.png)
+
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
