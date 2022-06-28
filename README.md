@@ -36,6 +36,9 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 
 ![image](https://user-images.githubusercontent.com/105617383/176062268-4408df0e-5ec7-4d9a-998a-e1fc0bf43cd6.png)
 
+![image](https://user-images.githubusercontent.com/105671763/176065138-7678b31d-8503-48d5-8fbc-4842e0a07d7a.png)
+
+
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/105617383/176052774-b32641d9-6ff1-403b-b006-a4cf49f3ae7a.png)
