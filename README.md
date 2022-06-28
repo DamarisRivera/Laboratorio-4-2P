@@ -49,9 +49,7 @@ Analizar y comprobar de forma teórica y experimental la veracidad que tiene el 
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-4.1 Simulación del circuito en Thinkercad.
-
-Simule el circuito 
+4.1 Simulación del circuito en Thinkercad, medir el voltaje total de A y la corriente total de Ix.
 
 ![image](https://user-images.githubusercontent.com/105617383/176052818-63b69792-0c84-47a4-be94-fb65ea4a1df0.png)
 
