@@ -98,6 +98,8 @@ Tabla 4.4. Porcentaje de error de la corriente Total (Ix).
 
 ![image](https://user-images.githubusercontent.com/105671763/176559910-5ad12d34-f2b0-4f2e-85d1-33a1dcc7c164.png)
 
+No existe un porcentaje de error entre los distintos datos tomados, permitiendo verificar que el proceso del circuito fue bien calculado y que permite verificar el teorema de superposición, donde las corrientes a través de cualquier elemento del circuito pueden obtenerse sumando algebraicamente las corrientes individuales generadas por una fuente funcionando por si sola y  manteniendo las demás fuentes igualadas a cero.
+
 # 5.VIDEO
 
 https://youtu.be/7dLC-LoGbO4
