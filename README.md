@@ -86,7 +86,10 @@ proporcionan. Anotar el valor de las mediciones en la tabla 4.1 y 4.2 respectiva
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
+
 Tabla 4.2. Medición de corriente aplicando superposición.
+
+![image](https://user-images.githubusercontent.com/105671763/176563282-75ac1d09-1ed4-40e4-b404-8d79c2f69695.png)
 
 Tabla 4.3. Porcentaje de error del Voltaje Total (VA).
 
