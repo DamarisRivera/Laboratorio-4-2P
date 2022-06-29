@@ -92,6 +92,8 @@ Tabla 4.3. Porcentaje de error del Voltaje Total (VA).
 
 ![image](https://user-images.githubusercontent.com/105671763/176559877-c6c157d4-bd57-4992-9b1e-06c5b8d96424.png)
 
+Analizando el porcentaje de error que se muestra en la Tabla 4.3, se concluye que el voltaje total se encuentra bien calculado y la variación mínima del error entre los datos calculados y los simulados es por los decimales que son tomados en cuenta en los cálculos realizados, en cambia, el porcentaje de error entre los valores calculados y experimentales es mayor porque se conoce que los circuitos experimentales se ven afectados por distintos factores, en este caso, se ve afectado el circuito por el valor del voltaje de las fuentes. 
+
 Tabla 4.4. Porcentaje de error de la corriente Total (Ix).
 
 ![image](https://user-images.githubusercontent.com/105671763/176559910-5ad12d34-f2b0-4f2e-85d1-33a1dcc7c164.png)
