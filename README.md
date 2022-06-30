@@ -84,6 +84,8 @@ proporcionan. Anotar el valor de las mediciones en la tabla 4.1 y 4.2 respectiva
 
 ![image](https://user-images.githubusercontent.com/105617383/176052796-1f98b246-69b3-4f9b-ba1a-0f13a4f3bd39.png)
 
+![image](https://user-images.githubusercontent.com/105617383/176588069-3dd9c341-d9f6-482f-a979-6b60d49e0e18.png)
+
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
 ![image](https://user-images.githubusercontent.com/105671763/176570753-cde90b6a-cd5a-4801-bbcb-c0152c4359ac.png)
